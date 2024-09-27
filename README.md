@@ -18,24 +18,21 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-## :hammer_and_wrench: Languages :
-| JS      |TS        |
-| ------- | -------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="55" height="55"/>
-
 ## :hammer_and_wrench: Frontend technologies
-| React | Redux | Next.js | ViTest | Sass |
-|-------|-------|---------|--------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="ViTest"  alt="ViTest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="55" height="55"/> |
+| JS    | TS    | HTML  | CSS   | React | Redux | Next.js | Vite   | ViTest | Sass |
+|-------|-------|-------|-------|-------|-------|---------|--------|--------|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55" />| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="ViTest"  alt="ViTest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="55" height="55"/> |
 
 ---
 
-### :mortar_board: Certificates :
+### :mortar_board: Education & Certificates :
 
-- :notebook_with_decorative_cover: <a href="https://app.rs.school/certificate/t74xet55">React Q3 2024 / RS School</a>
+- :blue_book: Bachelor'Degree in Software Engineering - TISBI University, 2019-2023.
+- :notebook_with_decorative_cover: <a href="https://app.rs.school/certificate/t74xet55">React Q3 2024</a> - THE ROLLING SCOPES SCHOOL, 2024.
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SleptsovBoris&theme=tokyonight)](https://git.io/streak-stats)
-
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleptsovBoris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
