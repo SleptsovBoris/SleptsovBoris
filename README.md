@@ -14,7 +14,6 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: I'm currently learning NextJS, GraphiQL
 
 ---
@@ -28,6 +27,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 | React | Redux | Next.js | ViTest | Sass |
 |-------|-------|---------|--------|------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="ViTest"  alt="ViTest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="55" height="55"/> |
+
+---
+
+### :mortar_board: Certificates :
+
+- :notebook_with_decorative_cover: <a href="https://app.rs.school/certificate/t74xet55">React Q3 2024 / RS School</a>
 
 ---
 
