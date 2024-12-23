@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I am Boris Sleptsov</h1>
   <h3>Welcome to my Github Profile!</h3>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F5NW5yYjRpNXlxMjQ3bWxsa2N5MWF1cmVuNDBrdTIyZHpwZmRubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif"/>
   <div id="badges">
     <a href="https://t.me/mister_jules">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
